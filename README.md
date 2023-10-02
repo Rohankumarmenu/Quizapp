@@ -6,7 +6,7 @@
 - [Key Features](#key-features)
 - [Technologies used](#technologies-used)
 - [Author](#author)
-- [License](#license)
+
 
 ## Configuration and Setup
 In the first terminal
