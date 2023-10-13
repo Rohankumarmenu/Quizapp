@@ -1,4 +1,4 @@
-# Fullstack open source quiz application 
+# Fullstack quiz application 
 
 <br/>
 
